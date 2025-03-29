@@ -1,35 +1,28 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "maple",
+  "name": "Progetto Mondo-Futuro 3B",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/wlogo.svg",
   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Home Page",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "introduzione"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Gennaio",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/snowday"
             ]
           }
         ]
@@ -75,8 +68,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/dlogo1.svg",
+    "dark": "/logo/wlogo3.svg"
   },
   "navbar": {
     "links": [

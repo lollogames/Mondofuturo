@@ -1,0 +1,11 @@
+{
+  "name": "mondofuturo",
+  "version": "1.0.0",
+  "description": "Progetto mondo-futuro 3B",
+  "scripts": {
+    "start": "mintlify dev"
+  },
+  "dependencies": {
+    "mintlify": "^1.0.0"
+  }
+}
