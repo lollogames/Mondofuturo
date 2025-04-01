@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Progetto",
+        "tab": "Calendario",
         "groups": [
           {
             "group": "Home Page",
@@ -42,23 +42,6 @@
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "3B",
-        "groups": [
-          {
-            "group": "Home Page",
-            "pages": [
-              "introduzione"
-            ]
-          },
-          {
-            "group": "Gennaio",
-            "pages": [
-              "mesi/gennaio/snowday"
             ]
           }
         ]
