@@ -20,19 +20,74 @@
             ]
           },
           {
-            "group": "Mesi",
+            "group": "Gennaio",
             "pages": [
-              "mesi/gennaio/gennaio",
-              "mesi/febbraio/febbraio",
-              "mesi/marzo/marzo",
-              "mesi/aprile/aprile",
-              "mesi/maggio/maggio",
-              "mesi/giugno/giugno",
-              "mesi/dicembre/luglio",
-              "mesi/dicembre/agosto",
-              "mesi/dicembre/settembre",
-              "mesi/dicembre/ottobre",
-              "mesi/dicembre/novembre",
+              "mesi/gennaio/gennaio"
+            ]
+          },
+          {
+            "group": "Febbraio",
+            "pages": [
+              "mesi/febbraio/febbraio"
+            ]
+          },
+          {
+            "group": "Marzo",
+            "pages": [
+              "mesi/marzo/marzo"
+            ]
+          },
+          {
+            "group": "Aprile",
+            "pages": [
+              "mesi/aprile/aprile"
+            ]
+          },
+          {
+            "group": "Maggio",
+            "pages": [
+              "mesi/maggio/maggio"
+            ]
+          },
+          {
+            "group": "Giugno",
+            "pages": [
+              "mesi/giugno/giugno"
+            ]
+          },
+          {
+            "group": "Luglio",
+            "pages": [
+              "mesi/luglio/luglio"
+            ]
+          },
+          {
+            "group": "Agosto",
+            "pages": [
+              "mesi/agosto/agosto"
+            ]
+          },
+          {
+            "group": "Settembre",
+            "pages": [
+              "mesi/settembre/settembre"
+            ]
+          },
+          {
+            "group": "Ottobre",
+            "pages": [
+              "mesi/ottobre/ottobre"
+            ]
+          },
+          {
+            "group": "Novembre",
+            "pages": [
+              "mesi/novembre/novembre"
+            ]
+          },
+          {
+            "group": "Dicembre",
+            "pages": [
               "mesi/dicembre/dicembre"
             ]
           }
