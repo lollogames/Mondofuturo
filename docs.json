@@ -28,11 +28,11 @@
               "mesi/aprile/aprile",
               "mesi/maggio/maggio",
               "mesi/giugno/giugno",
-              "mesi/dicembre/luglio",
-              "mesi/dicembre/agosto",
-              "mesi/dicembre/settembre",
-              "mesi/dicembre/ottobre",
-              "mesi/dicembre/novembre",
+              "mesi/luglio/luglio",
+              "mesi/agosto/agosto",
+              "mesi/settembre/settembre",
+              "mesi/ottobre/ottobre",
+              "mesi/novembre/novembre",
               "mesi/dicembre/dicembre"
             ]
           }
