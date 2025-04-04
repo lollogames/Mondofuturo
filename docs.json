@@ -20,20 +20,35 @@
             ]
           },
           {
-            "group": "Mesi",
+            "group": "Inverno",
             "pages": [
+              "mesi/dicembre/dicembre"
               "mesi/gennaio/gennaio",
-              "mesi/febbraio/febbraio",
+              "mesi/febbraio/febbraio"
+            ]
+          },
+          {
+            "group": "Primavera",
+            "pages": [
               "mesi/marzo/marzo",
               "mesi/aprile/aprile",
-              "mesi/maggio/maggio",
+              "mesi/maggio/maggio"
+            ]
+          },
+          {
+            "group": "Estate",
+            "pages": [
               "mesi/giugno/giugno",
               "mesi/luglio/luglio",
-              "mesi/agosto/agosto",
+              "mesi/agosto/agosto
+            ]
+          },
+          {
+            "group": "Autunno",
+            "pages": [
               "mesi/settembre/settembre",
               "mesi/ottobre/ottobre",
-              "mesi/novembre/novembre",
-              "mesi/dicembre/dicembre"
+              "mesi/novembre/novembre"
             ]
           }
 
@@ -62,19 +77,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Mondo-Futuro",
+          "href": "https://www.mondo-futuro.com",
+          "icon": "map"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Lice Scientifico Marconi",
+          "href": "https://www.marconicolleferro.edu.it",
+          "icon": "school"
         }
       ]
     }
