@@ -14,7 +14,7 @@
         "tab": "Calendario",
         "groups": [
           {
-            "group": "Home Page",
+            "group": "Introduzione",
             "pages": [
               "introduzione"
             ]
@@ -22,7 +22,7 @@
           {
             "group": "Inverno",
             "pages": [
-              "mesi/dicembre/dicembre"
+              "mesi/dicembre/dicembre",
               "mesi/gennaio/gennaio",
               "mesi/febbraio/febbraio"
             ]
@@ -40,7 +40,7 @@
             "pages": [
               "mesi/giugno/giugno",
               "mesi/luglio/luglio",
-              "mesi/agosto/agosto
+              "mesi/agosto/agosto"
             ]
           },
           {
