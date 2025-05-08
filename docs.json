@@ -7,7 +7,7 @@
     "light": "#668cff",
     "dark": "#0040ff"
   },
-  "favicon": "/logo/wlogo.svg",
+  "favicon": "/logo/logo.svg",
   "navigation": {
     "tabs": [
       {
@@ -80,7 +80,7 @@
           "icon": "map"
         },
         {
-          "anchor": "Lice Scientifico Marconi",
+          "anchor": "Liceo Scientifico Marconi",
           "href": "https://www.marconicolleferro.edu.it",
           "icon": "school"
         }
@@ -88,15 +88,11 @@
     }
   },
   "logo": {
-    "light": "/logo/dlogo1.svg",
-    "dark": "/logo/wlogo3.svg"
+    "light": "/logo/logo.svg",
+    "dark": "/logo/logo.svg"
   },
   "navbar": {
     "links": [
-      {
-        "label": "Contact Email",
-        "href": "mailto:ferrariolorenzo174@gmail.com"
-      }
     ]
   }
 }

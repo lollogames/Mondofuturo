@@ -1,0 +1,102 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "maple",
+  "name": "Progetto Mondo-Futuro",
+  "colors": {
+    "primary": "#3385ff",
+    "light": "#668cff",
+    "dark": "#0040ff"
+  },
+  "favicon": "/logo/wlogo.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Calendario",
+        "groups": [
+          {
+            "group": "Introduzione",
+            "pages": [
+              "introduzione"
+            ]
+          },
+          {
+            "group": "❄️Inverno",
+            "pages": [
+              "mesi/dicembre/dicembre",
+              "mesi/gennaio/gennaio",
+              "mesi/febbraio/febbraio"
+            ]
+          },
+          {
+            "group": "🌱Primavera",
+            "pages": [
+              "mesi/marzo/marzo",
+              "mesi/aprile/aprile",
+              "mesi/maggio/maggio"
+            ]
+          },
+          {
+            "group": "🌞Estate",
+            "pages": [
+              "mesi/giugno/giugno",
+              "mesi/luglio/luglio",
+              "mesi/agosto/agosto"
+            ]
+          },
+          {
+            "group": "🍂Autunno",
+            "pages": [
+              "mesi/settembre/settembre",
+              "mesi/ottobre/ottobre",
+              "mesi/novembre/novembre"
+            ]
+          }
+
+        ]
+      },
+      {
+        "tab": "Crediti & Risorse",
+        "groups": [
+          {
+            "group": "Crediti",
+            "pages": [
+              "crediti/crediti"
+            ]
+          },
+          {
+            "group": "Calendario",
+            "pages": [
+              "introduzione"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Mondo-Futuro",
+          "href": "https://www.mondo-futuro.com",
+          "icon": "map"
+        },
+        {
+          "anchor": "Lice Scientifico Marconi",
+          "href": "https://www.marconicolleferro.edu.it",
+          "icon": "school"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/dlogo1.svg",
+    "dark": "/logo/wlogo3.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Contact Email",
+        "href": "mailto:ferrariolorenzo174@gmail.com"
+      }
+    ]
+  }
+}
